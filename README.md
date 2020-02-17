@@ -1,6 +1,6 @@
 # **GPU Path Tracer with Google Colabolatory**
 
-## **Sample image**
+## **Sample Image**
 <img src="https://raw.githubusercontent.com/MsrOhkwr/gpu_path_tracer_with_google_colaboratory/image/teaser.png" width="800" height="450">
 
 ## **System Overview**
